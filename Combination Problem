@@ -2,15 +2,15 @@ Combination Sum || Combination 组合排列问题
 典型解法思路DFS
 算法框架：
 
-问题1：
+问题1：从n个数中选k个进行排序组合
+递归/dfs/Iterative直接
+
+
+问题2：set [2, 3, 6, 7] and target 7，不限制数量
 
 
 
-问题2：
-
-
-
-问题3：
+问题3：set [2, 3, 6, 7] and target 7，限制数量1次
 
 
 
